@@ -1,4 +1,4 @@
-local waypoints = {
+{"position":[
     { pos = Vector3.new(-173.72, -2.86, -164.41) },
     { pos = Vector3.new(-142.96, -34.84, -160.24) },
     { pos = Vector3.new(-142.11, -34.59, -169.16) },
